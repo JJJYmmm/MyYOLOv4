@@ -1,0 +1,3 @@
+# YOLOv4 Paper Precision
+详见pdf
+代码可参考[这里](https://zhuanlan.zhihu.com/p/454472695),本人暂时没复现...
